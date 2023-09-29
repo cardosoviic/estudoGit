@@ -4,3 +4,10 @@
     box-sizing: border-box;
 }
 
+
+.btn {
+    background: rgba(191, 122, 255, 0.836);
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+}
